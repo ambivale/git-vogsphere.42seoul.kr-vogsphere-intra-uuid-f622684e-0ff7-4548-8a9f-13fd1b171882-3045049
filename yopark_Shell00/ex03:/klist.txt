@@ -1,0 +1,5 @@
+Credentials cache: API:7A45F348-306D-47E8-AE9A-5795E88914FA
+        Principal: yopark@42SEOUL.KR
+
+  Issued                Expires             Flags    Principal
+Jan 20 16:16:41 2020  Jan 21 02:16:35 2020  FPIA   krbtgt/42SEOUL.KR@42SEOUL.KR
